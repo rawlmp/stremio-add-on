@@ -83,20 +83,12 @@
     "type": "movie",
     "infoHash": "7ebce3bd80ce2c0e75d7614ef7fc7a284fd2b972"
   },
-  "tt3861390": [
-    {
-      "name": "Rawl Movies",
-      "data": "Dumbo",
-      "type": "movie",
-      "infoHash": "be4250b32611c0e09471d985864a661493894b38"
-    },
-    {
-      "name": "Rawl Movies 4K",
-      "data": "Dumbo",
-      "type": "movie",
-      "infoHash": "be4250b32611c0e09471d985864a661493894b38"
-    }
-  ],
+  "tt3861390": {
+    "name": "Rawl Movies",
+    "data": "Dumbo",
+    "type": "movie",
+    "infoHash": "be4250b32611c0e09471d985864a661493894b38"
+  },
   "tt1477834": {
     "name": "Rawl Movies",
     "data": "Aquaman",
