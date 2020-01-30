@@ -12,18 +12,18 @@ const manifest = {
   // set what type of resources we will return
   resources: ['catalog', 'stream'],
 
-  types: ['movie', 'series'], // your add-on will be preferred for these content types
+  types: ['series'], // your add-on will be preferred for these content types
 
   // set catalogs, we'll have 2 catalogs in this case, 1 for movies and 1 for series
   catalogs: [
-    {
-      type: 'movie',
-      id: 'helloworldmovies',
-      name: 'Peliculacas'
-    },
+    //   {
+    //     type: 'movie',
+    //     id: 'helloworldmovies',
+    //     name: 'Peliculacas'
+    //   },
     {
       type: 'series',
-      id: 'helloworldseries',
+      id: 'seriesrawl',
       name: 'Seriacas'
     }
   ],
