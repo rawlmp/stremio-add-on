@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "stremio-addon-sdk": "^1.0.3"
+    "dom-parser": "^0.1.6",
+    "stremio-addon-sdk": "^1.0.3",
+    "stremio-addons": "^2.8.14"
   }
 }
