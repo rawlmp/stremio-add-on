@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cloudscraper": "^4.6.0",
     "dom-parser": "^0.1.6",
     "node-fetch": "^2.6.0",
