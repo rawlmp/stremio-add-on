@@ -1,6 +1,6 @@
 const manifest = {
   id: 'org.stremio.rawlmovies',
-  version: '1.0.5',
+  version: '1.0.8',
 
   name: 'Rawl Movies',
   description: 'Por fin películas en español!!!',

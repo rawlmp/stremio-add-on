@@ -1,17 +1,24 @@
 {
   "name": "rawl-movies",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.8",
+  "description": "Stremio addon",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
+    "cloudscraper": "^4.6.0",
     "dom-parser": "^0.1.6",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
     "stremio-addon-sdk": "^1.0.3",
     "stremio-addons": "^2.8.14"
   }
